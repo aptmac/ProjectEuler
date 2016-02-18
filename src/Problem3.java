@@ -23,7 +23,7 @@ public class Problem3 {
 			
 			for (Long p : primeNumbers)
 			{
-				if (i % p == 0 && num % p == 0)
+				if (i % p == 0 || num % p == 0)
 				{
 					isPrime = false;
 					break;
