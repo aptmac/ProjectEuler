@@ -1,4 +1,4 @@
-/**
+/** 
  * Project Euler Problem #4: Largest Palindrome Product
  * Date: February 19th, 2016
  * Description: A palindromic number reads the same both ways.
