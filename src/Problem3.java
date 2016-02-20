@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 /**
  * Project Euler Problem #3: Largest prime factor
  * Date: February 17th, 2016
