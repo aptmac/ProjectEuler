@@ -22,7 +22,7 @@ public class Problem6 {
 		
 		// For the first hundred numbers ..
 		for (int i = 1; i <= num; i++) {
-			// Add the i^2 number to SumOfSquares
+			// Add the i^2 number to SumOfSquares 
 			SumOfSquares += Math.pow(i, 2);
 			// Add the ith number ..
 			SquareOfSum += i;
